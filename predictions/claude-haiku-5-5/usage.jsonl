@@ -1,0 +1,5 @@
+{"chunk": "p0026_col1_part1.txt", "stop_reason": "end_turn", "input_tokens": 1477, "output_tokens": 710, "cost_usd": 0.0005027}
+{"chunk": "p0063_col2_part1.txt", "stop_reason": "end_turn", "input_tokens": 1101, "output_tokens": 533, "cost_usd": 0.00037660000000000005}
+{"chunk": "p0114_col1_part1.txt", "stop_reason": "end_turn", "input_tokens": 1452, "output_tokens": 551, "cost_usd": 0.00042070000000000003}
+{"chunk": "p0248_col2_part1.txt", "stop_reason": "end_turn", "input_tokens": 1437, "output_tokens": 578, "cost_usd": 0.00043270000000000006}
+{"chunk": "p1575_col1_part1.txt", "stop_reason": "end_turn", "input_tokens": 1452, "output_tokens": 624, "cost_usd": 0.00045720000000000005}

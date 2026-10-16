@@ -1,0 +1,5 @@
+{"chunk": "crockerlangleysa1905sanf_0026/header.txt", "stop_reason": "end_turn", "effort": "low", "attempts": 1, "flagged": false, "input_tokens": 225, "output_tokens": 34, "cost_usd": 3.95e-05}
+{"chunk": "crockerlangleysa1905sanf_0063/header.txt", "stop_reason": "end_turn", "effort": "low", "attempts": 1, "flagged": false, "input_tokens": 272, "output_tokens": 35, "cost_usd": 4.47e-05}
+{"chunk": "crockerlangleysa1905sanf_0114/header.txt", "stop_reason": "end_turn", "effort": "low", "attempts": 1, "flagged": false, "input_tokens": 225, "output_tokens": 30, "cost_usd": 3.75e-05}
+{"chunk": "crockerlangleysa1905sanf_0248/header.txt", "stop_reason": "end_turn", "effort": "low", "attempts": 1, "flagged": false, "input_tokens": 223, "output_tokens": 30, "cost_usd": 3.73e-05}
+{"chunk": "crockerlangleysa1905sanf_1575/header.txt", "stop_reason": "end_turn", "effort": "low", "attempts": 1, "flagged": false, "input_tokens": 225, "output_tokens": 31, "cost_usd": 3.8e-05}

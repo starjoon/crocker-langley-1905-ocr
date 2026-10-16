@@ -1,0 +1,130 @@
+street_id,street_name,page_id,seq,cross_street,side_a_label,side_b_label,side_a_raw,side_b_raw,side_a_number,side_b_number,continued
+,,crockerlangleysa1905sanf_0063,1,McAllister,,,700,701,700,701,True
+,,crockerlangleysa1905sanf_0063,2,Golden Gate Avenue,,,800,801,800,801,True
+,,crockerlangleysa1905sanf_0063,3,Turk,,,(c),(c),,,True
+,,crockerlangleysa1905sanf_0063,4,Calvary Cemetery,,,,,,,True
+,,crockerlangleysa1905sanf_0063,5,Geary,,,1300,1301,1300,1301,True
+,,crockerlangleysa1905sanf_0063,6,Post,,,1400,1401,1400,1401,True
+,,crockerlangleysa1905sanf_0063,7,Sutter,,,1500,1501,1500,1501,True
+,,crockerlangleysa1905sanf_0063,8,Bush,,,1600,1601,1600,1601,True
+,,crockerlangleysa1905sanf_0063,9,Pine,,,1700,1701,1700,1701,True
+,,crockerlangleysa1905sanf_0063,10,California,,,1800,1801,1800,1801,True
+,,crockerlangleysa1905sanf_0063,11,Sacramento,,,1900,1901,1900,1901,True
+,,crockerlangleysa1905sanf_0063,12,Clay,,,2000,2001,2000,2001,True
+,,crockerlangleysa1905sanf_0063,13,Washington,,,2100,2101,2100,2101,True
+,,crockerlangleysa1905sanf_0063,14,Jackson,,,2200,2201,2200,2201,True
+,,crockerlangleysa1905sanf_0063,15,Pacific Avenue,,,2300,2301,2300,2301,True
+,,crockerlangleysa1905sanf_0063,16,Broadway,,,2400,2401,2400,2401,True
+,,crockerlangleysa1905sanf_0063,17,Vallejo,,,2500,2501,2500,2501,True
+,,crockerlangleysa1905sanf_0063,18,Green,,,2600,2601,2600,2601,True
+,,crockerlangleysa1905sanf_0063,19,Union,,,2700,2701,2700,2701,True
+,,crockerlangleysa1905sanf_0063,20,Filbert,,,2800,2801,2800,2801,True
+,,crockerlangleysa1905sanf_0063,21,Presidio,,,,,,,True
+,,crockerlangleysa1905sanf_0063,22,Greenwich,,,2900,2901,2900,2901,True
+,,crockerlangleysa1905sanf_0063,23,Lombard,,,3000,3001,3000,3001,True
+,,crockerlangleysa1905sanf_0063,24,"Chestnut ,",,,3100,3101,3100,3101,True
+,,crockerlangleysa1905sanf_0063,25,Francisco,,,3200,3201,3200,3201,True
+,,crockerlangleysa1905sanf_0063,26,Bay,,,3300,3301,3300,3301,True
+,,crockerlangleysa1905sanf_0063,27,North Point,,,3400,3401,3400,3401,True
+,,crockerlangleysa1905sanf_0063,28,Beach,,,3500,3501,3500,3501,True
+,,crockerlangleysa1905sanf_0063,29,Jefferson,,,3600,3601,3600,3601,True
+,,crockerlangleysa1905sanf_0063,30,Tonquin,,,3700,3701,3700,3701,True
+,,crockerlangleysa1905sanf_0063,31,Lewis,,,(e),(e),,,True
+0063-c1-010,Bartlett,crockerlangleysa1905sanf_0063,1,Twenty-first,W,E,2,1,2,1,False
+0063-c1-010,Bartlett,crockerlangleysa1905sanf_0063,2,Twenty-second,W,E,100,101,100,101,False
+0063-c1-010,Bartlett,crockerlangleysa1905sanf_0063,3,Twenty-third,W,E,200,201,200,201,False
+0063-c1-010,Bartlett,crockerlangleysa1905sanf_0063,4,Twenty-fourth,W,E,300,301,300,301,False
+0063-c1-010,Bartlett,crockerlangleysa1905sanf_0063,5,Twenty-fifth,W,E,400,401,400,401,False
+0063-c1-010,Bartlett,crockerlangleysa1905sanf_0063,6,Twenty-sixth,W,E,500,501,500,501,False
+0063-c1-010,Bartlett,crockerlangleysa1905sanf_0063,7,Army,W,E,(e),(e),,,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,1,Market and Bush,E,W,2,1,2,1,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,2,Pine,E,W,100,101,100,101,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,3,California,E,W,200,201,200,201,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,4,Halleck,E,W,,,,,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,5,Sacramento,E,W,300,301,300,301,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,6,Commercial,E,W,,,,,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,7,Clay,E,W,400,401,400,401,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,8,Merchant,E,W,,,,,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,9,Washington,E,W,500,501,500,501,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,10,Oregon,E,W,—,,,,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,11,Jackson,E,W,600,601,600,601,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,12,Pacific,E,W,700,701,700,701,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,13,Broadway,E,W,800,801,800,801,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,14,Vallejo,E,W,900,901,900,901,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,15,Green,E,W,1000,1001,1000,1001,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,16,Commerce,E,W,—,,,,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,17,Union,E,W,1100,1101,1100,1101,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,18,Filbert,E,W,1200,1201,1200,1201,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,19,Greenwich,E,W,1300,1301,1300,1301,False
+0063-c1-013,Battery,crockerlangleysa1905sanf_0063,20,Lombard,E,W,(e),(e),,,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,1,East North,N,S,2,1,2,1,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,2,Kearny,N,S,50,51,50,51,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,3,Dupont,N,S,100,101,100,101,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,4,Midway,N,S,,,,,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,5,Stockton,N,S,200,201,200,201,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,6,Powell,N,S,300,301,300,301,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,7,Mason,N,S,400,401,400,401,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,8,Taylor,N,S,500,501,500,501,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,9,Jones,N,S,600,601,600,601,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,10,Montgomery Av,N,S,,,,,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,11,Leavenworth,N,S,700,701,700,701,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,12,Hyde,N,S,800,801,800,801,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,13,Larkin,N,S,900,901,900,901,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,14,Polk,N,S,1000,1001,1000,1001,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,15,Van Ness Avenue,N,S,(o),1101,,1101,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,16,Franklin,N,S,(o),1201,,1201,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,17,Gough,N,S,(o),1301,,1301,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,18,Octavia,N,S,(o),1401,,1401,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,19,Laguna,N,S,1500,(o),1500,,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,20,Buchanan,N,S,1600,(o),1600,,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,21,Webster,N,S,1700,1701,1700,1701,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,22,Fillmore,N,S,1800,1801,1800,1801,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,23,Steiner,N,S,1900,1901,1900,1901,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,24,Pierce,N,S,2000,2001,2000,2001,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,25,Scott,N,S,2100,2101,2100,2101,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,26,Devisadero,N,S,2200,2201,2200,2201,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,27,Broderick,N,S,2300,2301,2300,2301,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,28,Baker,N,S,2400,2401,2400,2401,False
+0063-c2-002,Bay,crockerlangleysa1905sanf_0063,29,Lyon,N,S,(e),(e),,,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,1,Dupont and E North,N,S,2,1,2,1,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,2,Stockton,N,S,100,101,100,101,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,3,Powell,N,S,200,201,200,201,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,4,Mason,N,S,300,301,300,301,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,5,Taylor,N,S,400,401,400,401,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,6,Jones,N,S,500,501,500,501,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,7,Leavenworth,N,S,600,601,600,601,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,8,Montgomery Av,N,S,—,,,,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,9,Hyde,N,S,700,701,700,701,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,10,Larkin,N,S,800,801,800,801,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,11,Polk,N,S,900,901,900,901,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,12,Van Ness Avenue,N,S,(c),(c),,,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,13,Laguna,N,S,1400,1401,1400,1401,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,14,Buchanan,N,S,1500,1501,1500,1501,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,15,Webster,N,S,1600,1601,1600,1601,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,16,Fillmore,N,S,1700,1701,1700,1701,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,17,Steiner,N,S,1800,1801,1800,1801,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,18,Pierce,N,S,1900,1901,1900,1901,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,19,Scott,N,S,2000,2001,2000,2001,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,20,Devisadero,N,S,2100,2101,2100,2101,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,21,Broderick,N,S,2200,2201,2200,2201,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,22,Baker,N,S,2300,2301,2300,2301,False
+0063-c2-005,Beach,crockerlangleysa1905sanf_0063,23,Lyon,N,S,(e),(e),,,False
+0063-c2-007,Beale,crockerlangleysa1905sanf_0063,1,Market,W,E,2,1,2,1,False
+0063-c2-007,Beale,crockerlangleysa1905sanf_0063,2,Mission,W,E,100,101,100,101,False
+0063-c2-007,Beale,crockerlangleysa1905sanf_0063,3,Howard,W,E,200,201,200,201,False
+0063-c2-007,Beale,crockerlangleysa1905sanf_0063,4,Folsom,W,E,300,301,300,301,False
+0063-c2-007,Beale,crockerlangleysa1905sanf_0063,5,Beale Place,W,E,—,,,,False
+0063-c2-007,Beale,crockerlangleysa1905sanf_0063,6,Harrison,W,E,400,401,400,401,False
+0063-c2-007,Beale,crockerlangleysa1905sanf_0063,7,Bryant,W,E,500,(o),500,,False
+0063-c2-007,Beale,crockerlangleysa1905sanf_0063,8,Brannan,W,E,(e),(e),,,False
+0063-c3-022,Bernard,crockerlangleysa1905sanf_0063,1,Taylor,N,S,2,1,2,1,False
+0063-c3-022,Bernard,crockerlangleysa1905sanf_0063,2,Jones,N,S,100,101,100,101,False
+0063-c3-022,Bernard,crockerlangleysa1905sanf_0063,3,Leavenworth,N,S,(e),(e),,,False
+0063-c3-024,Berry,crockerlangleysa1905sanf_0063,1,Second,N,S,2,1,2,1,False
+0063-c3-024,Berry,crockerlangleysa1905sanf_0063,2,Third,N,S,100,101,100,101,False
+0063-c3-024,Berry,crockerlangleysa1905sanf_0063,3,Fourth,N,S,200,201,200,201,False
+0063-c3-024,Berry,crockerlangleysa1905sanf_0063,4,Fifth,N,S,300,301,300,301,False
+0063-c3-024,Berry,crockerlangleysa1905sanf_0063,5,Sixth,N,S,400,401,400,401,False
+0063-c3-024,Berry,crockerlangleysa1905sanf_0063,6,Seventh,N,S,500,501,500,501,False
+0063-c3-024,Berry,crockerlangleysa1905sanf_0063,7,Division,N,S,—,,,,False
+0063-c3-024,Berry,crockerlangleysa1905sanf_0063,8,De Haro,N,S,(e),(e),,,False
