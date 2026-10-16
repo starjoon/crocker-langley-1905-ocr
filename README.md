@@ -1,7 +1,9 @@
 # Crocker-Langley 1905 directory OCR
 
 Turns scanned pages of the 1905 Crocker-Langley San Francisco Directory into text,
-then (later) into structured tables for modeling.
+then into structured tables for modeling.
+
+Findings from the 5-page pilot: [Crocker-Langley 1905 OCR: Pilot Findings](https://claude.ai/code/artifact/67bd4bf8-be7d-43dc-806e-85a8dedec3fe)
 
 ## Pipeline
 
